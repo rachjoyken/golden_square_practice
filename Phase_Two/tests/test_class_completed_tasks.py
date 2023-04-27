@@ -1,4 +1,4 @@
-from lib.completed_tasks import *
+from lib.class_completed_tasks import *
 
 def test_add_task():
     completed_task = CompletedTask()

@@ -1,4 +1,4 @@
-from lib.grammar_stats import *
+from lib.class_grammar_stats import *
 
 def test_check_grammar():
     text = GrammarStats()

@@ -13,7 +13,6 @@ class GrammarStats:
         else:
             return False
 
-  
     def percentage_good(self):
         result = self.checks_passed / self.checks_done * 100
         print(result)

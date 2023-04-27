@@ -1,4 +1,4 @@
-from lib.Class_diary_entry import *
+from lib.class_diary_entry import *
 
 def test_title_and_content_as_string():
     diary_entry = DiaryEntry("Day 1", "contents")
